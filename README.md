@@ -1,9 +1,9 @@
 # AirBnB clone - The console
 
-![hbnb-screenshot](https://github.com/Johnelsaphiree/AirBnB_clone/blob/main/img/hbnb.png)
+![hbnb-screenshot]()
 ## Description
 
-This team project is part of the Holberton School Full-Stack Software Engineer program.
+This team project is part of the ALX School Full-Stack Software Engineer program.
 It's the first step towards building a first full web application: an AirBnB clone.
 This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data.
 
@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Johnelsaphiree](https://github.com/johnelsaphiree) ~ [LinkedIn](https://www.linkedin.com/in/johnelsaphire/) ~ [@johnelsaphiree](https://twitter.com/johnelsaphire):
-*Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Miss Kiruri** - [miss.kiruri@gmail.com](https://github.com/misskiruri)
+- [Ufia Irene](https://github.com/UfiairENE)
+
+- **Aniekan Williams** - [ekanwilliams@gmail.com](https://github.com/)
